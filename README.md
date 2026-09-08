@@ -54,11 +54,11 @@ Tkinter's after() method is used to continuously process incoming data while kee
 
 📡 ESP32-CAM Configuration:
 
-The ESP32-CAM configuration is provided in the .ino file by using Arduino IDE and libraries.
+The ESP32-CAM configuration is provided in the CameraConfig.ino file by using Arduino IDE and libraries.
 
-The .ino file contains the network configuration, including the Wi-Fi credentials and the camera's network settings.
+The CameraConfig.ino file contains the network configuration, including the Wi-Fi credentials and the camera's network settings.
 
-After uploading the .ino code to the ESP32-CAM, the camera obtains an IP address on the network.
+After uploading the CameraConfig.ino code to the ESP32-CAM, the camera obtains an IP address on the network.
 
 The Python application then connects to the camera's MJPEG stream using:
 
