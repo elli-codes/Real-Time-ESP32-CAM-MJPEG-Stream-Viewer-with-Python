@@ -34,7 +34,7 @@ Byte Streams / Buffer Processing
 
 The graphical user interface is built with Tkinter.
 
-The GUI receives the extracted JPEG frames from the ESP32-CAM stream and displays them continuously in a Tkinter window.
+The GUI receives the extracted JPEG frames from the ESP32-CAM stream and displays them continuously in a Tkinter window.(main.py)
 
 The image processing pipeline is:
 
