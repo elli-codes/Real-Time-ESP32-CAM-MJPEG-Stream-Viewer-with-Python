@@ -69,3 +69,5 @@ For example:
 http://192.168.137.60:81/stream
 
 If the ESP32-CAM receives a different IP address, update the stream URL in the Python code accordingly.
+
+🖥️📽️YouTube video link:https://youtu.be/6ZsZ_ikAauo 
